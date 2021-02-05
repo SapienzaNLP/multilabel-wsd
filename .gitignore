@@ -1,0 +1,15 @@
+*.txt
+*.tsv
+*.json
+*.bin
+*.vec
+*.xml
+*.class
+
+.DS_Store
+
+.vscode/
+
+lightning_logs/
+checkpoints/*/*ckpt
+__pycache__/
