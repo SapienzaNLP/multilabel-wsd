@@ -31,8 +31,8 @@ You can download a copy of all the files in this repository by cloning the
 
 or [download a zip archive](https://github.com/SapienzaNLP/multilabel-wsd/archive/master.zip).
 
-### Model Checkpoints
-Coming soon!
+### Model Checkpoint
+* [Download](https://drive.google.com/file/d/1Unfrd4432o6Xy89UD2W5unx4BYIpKyqE/view?usp=sharing)
 
 ## How to run
 You'll need a working Python environment to run the code.
