@@ -57,8 +57,8 @@ And install all required dependencies in it:
     cd multilabel-wsd
 
     pip install -r requirements.txt
-    pip install torch-scatter -f https://pytorch-geometric.com/whl/torch-1.5.0+${CUDA}.html
-    pip install torch-scatter torch-sparse -f https://pytorch-geometric.com/whl/torch-1.5.0+${CUDA}.html
+    pip install torch-scatter==2.0.5 -f https://pytorch-geometric.com/whl/torch-1.5.0+${CUDA}.html
+    pip install torch-scatter==2.0.5 torch-sparse==0.6.7 -f https://pytorch-geometric.com/whl/torch-1.5.0+${CUDA}.html
 
 where `${CUDA}` should be replaced by either `cpu`, `cu92`, `cu101`, `cu102`, or `cu110` depending on your PyTorch installation.
 
