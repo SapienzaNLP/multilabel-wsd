@@ -79,7 +79,7 @@ We use two main sources of data: the Unified Evaluation Framework for WSD and th
 * The Unified Evaluation Framework for WSD is required to train and evaluate this model. It contains SemCor, the standard
 training corpus for WordNet-based WSD. It also contains several evaluation datasets from previous SemEval (and Senseval) tasks.
 You can download the data [here](http://lcl.uniroma1.it/wsdeval/).
-* WNGC is often used as an additional source of training data. The official website is [here](). We use the preprocessed data 
+* WNGC is often used as an additional source of training data. The official website is [here](https://wordnetcode.princeton.edu/glosstag.shtml). We use the preprocessed data 
 available [here](https://github.com/SapienzaNLP/ewiser/tree/master/res/corpora/training/preprocessed).
 
 Once you have downloaded the data, place it in `data/original` and run the scripts:
