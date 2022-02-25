@@ -5,11 +5,15 @@
 *.vec
 *.xml
 *.class
+*.zip
 
 .DS_Store
 
 .vscode/
 
+experiment_logs/
 lightning_logs/
 checkpoints/*/*ckpt
 __pycache__/
+
+!requirements.txt
