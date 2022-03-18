@@ -9,8 +9,7 @@
 </div>
 
 ## Description
-This is the repository for the paper [*Framing Word Sense Disambiguation as a Multi-Label Problem for Model-Agnostic Knowledge Integration*](https://www.researchgate.net/publication/349058027_Framing_Word_Sense_Disambiguation_as_a_Multi-Label_Problem_for_Model-Agnostic_Knowledge_Integration),
-to be presented at EACL 2021 by [Simone Conia](https://c-simone.github.io) and [Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/).
+This is the repository for the paper [*Framing Word Sense Disambiguation as a Multi-Label Problem for Model-Agnostic Knowledge Integration*](https://www.researchgate.net/publication/349058027_Framing_Word_Sense_Disambiguation_as_a_Multi-Label_Problem_for_Model-Agnostic_Knowledge_Integration), presented at EACL 2021 by [Simone Conia](https://c-simone.github.io) and [Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/).
 
 
 ## Abstract
